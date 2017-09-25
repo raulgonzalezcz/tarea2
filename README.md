@@ -43,11 +43,12 @@ For each test case, print the required answer in a new line.
 
 *Test Case #01:* In range [17,24], there are no square numbers.
 
-Lenguage de programación:
+## Lenguage de programación
 
 ```[javascript]
 // JavaScript
 ```
+## About
 
 **Raúl González Cruz**
 >Ingeniería en Sistemas Computacionales

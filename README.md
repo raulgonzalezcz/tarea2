@@ -48,7 +48,7 @@ For each test case, print the required answer in a new line.
 ```[javascript]
 // JavaScript
 ```
-## About
+## Autor
 
 **Raúl González Cruz**
->Ingeniería en Sistemas Computacionales
+>Ingeniería en Sistemas Computacionales, UDLAP

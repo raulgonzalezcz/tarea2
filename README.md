@@ -42,3 +42,12 @@ For each test case, print the required answer in a new line.
 *Test Case #00:* In range [3,9], 4 and 9 are the two square numbers. 
 
 *Test Case #01:* In range [17,24], there are no square numbers.
+
+Lenguage de programación:
+
+```[javascript]
+// JavaScript
+```
+
+**Raúl González Cruz**
+>Ingeniería en Sistemas Computacionales
